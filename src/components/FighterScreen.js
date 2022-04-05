@@ -10,7 +10,8 @@ const FighterScreen = ({isVisible, setVisible}) => {
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie a iaculis at erat pellentesque adipiscing commodo. Tortor consequat id porta nibh venenatis cras sed felis. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt.
         </p>
-      </div>)
+      </div>
+      )
 }
 
 export default FighterScreen;
