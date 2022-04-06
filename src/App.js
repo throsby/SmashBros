@@ -11,7 +11,8 @@ const characters = [
   {name: "Sheik", color: "lightskyblue"},
   {name: "Cloud", color: "mediumseagreen"},
   {name: "Zelda", color: "lightpink"},
-  {name: "Sora", color: "lightyellow"}
+  {name: "Sora", color: "lightyellow"},
+  {name: "Kirby", color: "pink"}
 ]
 
 function App() {
